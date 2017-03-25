@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=5V Pin=U1-3
+Removed Member From Class: ClassName=MCU Member=R3
+Removed Member From Class: ClassName=Powe&CAN Member=U1
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U22 NewDesignator=U1
+Added Component: Designator=SW1(Push Button Switch)
+Added Component: Designator=U0(SOIC127P600X175-8N)
+Added Component: Designator=U3(R78-1.0)
+Added Component: Designator=U4(RECOM RO Series 1W DCDC)
+Added Pin To Net: NetName=3V3 Pin=C0-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=NRST Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=CAN_TX Pin=U0-1
+Added Pin To Net: NetName=GND Pin=U0-2
+Added Pin To Net: NetName=5V Pin=U0-3
+Added Pin To Net: NetName=CAN_RX Pin=U0-4
+Added Pin To Net: NetName=GND Pin=U0-8
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=3V3 Pin=U1-24
+Added Pin To Net: NetName=CAN_RX Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=NetR1_1 Pin=U1-42
+Added Pin To Net: NetName=NetR2_1 Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=CAN_TX Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=3V3 Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=3V3 Pin=U2-8
+Added Pin To Net: NetName=12V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=5V Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=3V3 Pin=U4-4
+Added Pin To Net: NetName=CAN_N Pin=R3-1
+Added Pin To Net: NetName=CAN_N Pin=U0-6
+Added Net: Name=CAN_N
+Added Pin To Net: NetName=CAN_P Pin=R3-2
+Added Pin To Net: NetName=CAN_P Pin=U0-7
+Added Net: Name=CAN_P
+Added Differential Pair: Name=CAN
+Added Member To Class: ClassName=MCU Member=Component R4 SCH_GENERIC_RESISTOR_0603
+Added Member To Class: ClassName=MCU Member=Component SW1 Rest Switch
+Added Member To Class: ClassName=Powe&CAN Member=Component U0 MCP2562
+Added Member To Class: ClassName=Powe&CAN Member=Component U3 R78E-1.0 DC/DC
+Added Member To Class: ClassName=Powe&CAN Member=Component U4 RECOM RO Series
+Added Room: Name=MCU
+Added Room: Name=Powe&CAN
+Added Room: Name=Sensor

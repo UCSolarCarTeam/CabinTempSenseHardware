@@ -1,0 +1,59 @@
+Added Component: Designator=C0(PCB_GENERIC_SMD_0603)
+Added Component: Designator=C1(PCB_GENERIC_SMD_0603)
+Added Component: Designator=R1(PCB_GENERIC_SMD_0603)
+Added Component: Designator=R2(PCB_GENERIC_SMD_0603)
+Added Component: Designator=R3(PCB_GENERIC_SMD_0603)
+Added Component: Designator=R3(PCB_GENERIC_SMD_0603)
+Added Component: Designator=U1(SENSOR TEMP I2C/SMBUS 8MSOP)
+Added Component: Designator=U22(STM-LQFP48_N)
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=U1-1
+Added Net: Name=12V
+Added Pin To Net: NetName=CAN_H Pin=R3-2
+Added Net: Name=CAN_H
+Added Net: Name=CAN_L
+Added Net: Name=CAN_RX
+Added Net: Name=CAN_TX
+Added Pin To Net: NetName=GND Pin=C0-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC0_2 Pin=C0-2
+Added Pin To Net: NetName=NetC0_2 Pin=U1-8
+Added Net: Name=NetC0_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU22_42 Pin=U22-42
+Added Net: Name=NetU22_42
+Added Pin To Net: NetName=NetU22_43 Pin=U22-43
+Added Net: Name=NetU22_43
+Added Pin To Net: NetName=NetU22_45 Pin=U22-45
+Added Net: Name=NetU22_45
+Added Pin To Net: NetName=NetU22_46 Pin=U22-46
+Added Net: Name=NetU22_46
+Added Pin To Net: NetName=NRST Pin=C1-2
+Added Pin To Net: NetName=NRST Pin=R3-1
+Added Pin To Net: NetName=NRST Pin=U22-7
+Added Net: Name=NRST
+Added Class: Name=MCU
+Added Class: Name=Powe&CAN
+Added Class: Name=Sensor
+Added Room: Name=MCU
+Added Room: Name=Powe&CAN
+Added Room: Name=Sensor

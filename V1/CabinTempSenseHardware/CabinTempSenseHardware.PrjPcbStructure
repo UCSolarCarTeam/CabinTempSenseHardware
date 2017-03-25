@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MainBoard.SchDoc
+Record=SheetSymbol|SourceDocument=MainBoard.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainBoard.SchDoc|Designator=Powe&CAN|SchDesignator=Powe&CAN|FileName=Power&CAN.SchDoc|SymbolType=Normal|RawFileName=Power&CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainBoard.SchDoc|Designator=Sensor|SchDesignator=Sensor|FileName=SensorSheet.SchDoc|SymbolType=Normal|RawFileName=SensorSheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
