@@ -1,2 +1,2 @@
-CanHarness=TX,RX
+CanHarness=CAN_TX,CAN_RX
 Harness=SDA,SCL,ALERT,A0,A1,A2
