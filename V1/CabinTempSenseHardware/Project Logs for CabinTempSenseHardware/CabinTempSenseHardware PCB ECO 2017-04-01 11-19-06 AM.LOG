@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Powe&CAN Member=R4
+Removed Member From Class: ClassName=Powe&CAN Member=U2
+Added Component: Designator=P1(PCB_MLX_MICROFIT_3X2)
+Added Pin To Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=CAN_P Pin=P1-4
+Added Pin To Net: NetName=CAN_N Pin=P1-5
+Added Pin To Net: NetName=3V3 Pin=U0-5
+Change Class Name : Old Net Name=Powe&CAN New Net Name=Power&CAN
+Added Member To Class: ClassName=Power&CAN Member=Component P1 SCH_MLX_MICROFIT_3X2
+Added Member To Class: ClassName=Power&CAN Member=Component R3 SCH_GENERIC_RESISTOR_0603
+Added Room: Name=MCU
+Added Room: Name=Power&CAN

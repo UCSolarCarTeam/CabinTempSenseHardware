@@ -1,0 +1,11 @@
+Added Component: Designator=D0(TVS Diode)
+Added Component: Designator=D1(TVS Diode)
+Added Pin To Net: NetName=CAN_P Pin=D0-1
+Added Pin To Net: NetName=GND Pin=D0-2
+Added Pin To Net: NetName=CAN_N Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Member To Class: ClassName=Power&CAN Member=Component D0 TVS Diode 3.3V
+Added Member To Class: ClassName=Power&CAN Member=Component D1 TVS Diode 3.3V
+Added Room: Name=MCU
+Added Room: Name=Power&CAN
+Added Room: Name=Sensor
