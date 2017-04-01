@@ -308,7 +308,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OVRLPGLG
 
 [Document17]
 DocumentPath=..\..\AltiumLibraries\Sensors\PCB Libraries\LTR-329ALS-01.PcbLib

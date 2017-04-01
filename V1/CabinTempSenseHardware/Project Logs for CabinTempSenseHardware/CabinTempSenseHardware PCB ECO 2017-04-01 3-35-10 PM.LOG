@@ -1,0 +1,12 @@
+Added Component: Designator=U2(SENSOR TEMP I2C/SMBUS 8MSOP)
+Added Pin To Net: NetName=NetR2_1 Pin=U2-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=3V3 Pin=U2-8
+Added Member To Class: ClassName=Sensor Member=Component U2 I2C Temperature Sensor
+Added Room: Name=MCU
+Added Room: Name=Power&CAN
+Added Room: Name=Sensor
