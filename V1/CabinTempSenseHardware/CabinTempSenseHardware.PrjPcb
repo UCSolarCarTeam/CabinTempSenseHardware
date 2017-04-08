@@ -240,7 +240,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JMPGRDHR
 
 [Document13]
 DocumentPath=..\..\AltiumLibraries\Switches\PCB Libraries\Slide Switch.PcbLib
@@ -291,7 +291,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IFFYYVOJ
 
 [Document16]
 DocumentPath=..\..\AltiumLibraries\Sensors\PCB Libraries\Microchip I2C Temperature Sensor.PcbLib
@@ -852,7 +852,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NQWIIVAN
 
 [Document49]
 DocumentPath=..\..\AltiumLibraries\Diodes\PCB Libraries\SM74611 Smart Bypass Diode - TI.PcbLib
@@ -920,7 +920,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HBRCIXWM
 
 [Document53]
 DocumentPath=..\..\AltiumLibraries\DCDC Converters\PCB Libraries\Recom R78E-1.0.PcbLib
@@ -937,7 +937,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HLAWRUIG
 
 [Document54]
 DocumentPath=..\..\AltiumLibraries\Crystal Oscillators\PCB Libraries\Foxslf 8MHz Crystal.PcbLib
@@ -1447,7 +1447,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SQTNITHC
 
 [Document84]
 DocumentPath=..\..\AltiumLibraries\Switches\Schematic Libraries\Slide Switch.SchLib
@@ -1498,7 +1498,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MLRJLKRQ
 
 [Document87]
 DocumentPath=..\..\AltiumLibraries\Sensors\Schematic Libraries\Microchip I2C Temperature Sensor.SchLib
