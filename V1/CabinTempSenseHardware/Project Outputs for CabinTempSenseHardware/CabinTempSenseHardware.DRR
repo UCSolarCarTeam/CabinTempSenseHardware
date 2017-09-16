@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CabinTempSenseHardware.PcbDoc   2017-09-16  2:14:58 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CabinTempSenseHardware.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             15        PTH        110.22mm (4.34inch)
+T2      0.305mm (12mil)                                           Round             33        PTH        172.37mm (6.79inch)
+T3      0.406mm (16mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T4      1.02mm (40mil)                                            Round             6         PTH        15.00mm (0.59inch)
+T5      1.15mm (45mil)                                            Round             7         PTH        18.72mm (0.74inch)
+T6      3mm (118mil)                                              Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              63
+
+Total Processing Time (hh:mm:ss) : 00:00:00
