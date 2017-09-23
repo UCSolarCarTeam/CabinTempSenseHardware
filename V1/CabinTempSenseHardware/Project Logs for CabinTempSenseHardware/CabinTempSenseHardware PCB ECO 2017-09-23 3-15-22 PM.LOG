@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D0 Old Footprint=TVS Diode New Footprint=TVS Diode SOD-323
+Change Component Footprint: Designator=D1 Old Footprint=TVS Diode New Footprint=TVS Diode SOD-323
+Added Member To Class: ClassName=Power&CAN Member=Component D0 Bourns TVS Diode 3.3V SOD323
+Added Room: Name=MCU
+Added Room: Name=Power&CAN
+Added Room: Name=Sensor

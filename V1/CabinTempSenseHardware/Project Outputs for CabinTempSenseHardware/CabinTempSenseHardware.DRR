@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: CabinTempSenseHardware.PcbDoc   2017-09-16  2:14:58 PM
+NCDrill File Report For: CabinTempSenseHardware.PcbDoc   2017-09-23  4:45:54 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,13 @@ ASCII RoundHoles File : CabinTempSenseHardware.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             15        PTH        110.22mm (4.34inch)
-T2      0.305mm (12mil)                                           Round             33        PTH        172.37mm (6.79inch)
-T3      0.406mm (16mil)                                           Round             1         PTH        0.00mm (0.00inch)
-T4      1.02mm (40mil)                                            Round             6         PTH        15.00mm (0.59inch)
-T5      1.15mm (45mil)                                            Round             7         PTH        18.72mm (0.74inch)
-T6      3mm (118mil)                                              Round             1         PTH        0.00mm (0.00inch)
+T1      12mil (0.3mm)                                             Round             26        PTH        5.89inch (149.65mm)
+T2      12mil (0.305mm)                                           Round             39        PTH        9.29inch (235.98mm)
+T3      16mil (0.406mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      40mil (1.02mm)                                            Round             6         PTH        0.59inch (15.00mm)
+T5      45mil (1.15mm)                                            Round             7         PTH        0.71inch (17.91mm)
+T6      118mil (3mm)                                              Round             1         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              63
+Totals                                                                              80
 
 Total Processing Time (hh:mm:ss) : 00:00:00

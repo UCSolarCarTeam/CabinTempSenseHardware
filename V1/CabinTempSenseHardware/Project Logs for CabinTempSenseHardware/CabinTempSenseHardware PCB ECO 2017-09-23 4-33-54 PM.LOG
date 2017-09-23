@@ -1,0 +1,21 @@
+Change Physical Footprint: Designator=C0 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C1 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C2 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C3 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C4 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C5 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C6 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=D0 Old Footprint=TVS Diode SOD-323 New Footprint=TVS Diode SOD-323
+Change Physical Footprint: Designator=D1 Old Footprint=TVS Diode SOD-323 New Footprint=TVS Diode SOD-323
+Change Physical Footprint: Designator=J1 Old Footprint=CONN-50mil-10POS-SMD New Footprint=CONN-50mil-10POS-SMD
+Change Physical Footprint: Designator=P1 Old Footprint=PCB_MLX_MICROFIT_3X2 New Footprint=PCB_MLX_MICROFIT_3X2
+Change Physical Footprint: Designator=R1 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R2 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R3 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R4 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=SW1 Old Footprint=C&K 4 pin Tactile Switch New Footprint=C&K 4 pin Tactile Switch
+Change Physical Footprint: Designator=U0 Old Footprint=SOIC127P600X175-8N New Footprint=SOIC127P600X175-8N
+Change Physical Footprint: Designator=U1 Old Footprint=STM-LQFP48_N New Footprint=STM-LQFP48_N
+Change Physical Footprint: Designator=U2 Old Footprint=SENSOR TEMP I2C/SMBUS 8MSOP New Footprint=SENSOR TEMP I2C/SMBUS 8MSOP
+Change Physical Footprint: Designator=U3 Old Footprint=R78-1.0 New Footprint=R78-1.0
+Change Physical Footprint: Designator=U4 Old Footprint=RECOM RO Series 1W DCDC New Footprint=RECOM RO Series 1W DCDC

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: CabinTempSenseHardware.GBR   2017-09-16  2:14:20 PM
+Gerber File Extension Report For: CabinTempSenseHardware.GBR   2017-09-23  4:53:21 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -12,5 +12,5 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
-.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------

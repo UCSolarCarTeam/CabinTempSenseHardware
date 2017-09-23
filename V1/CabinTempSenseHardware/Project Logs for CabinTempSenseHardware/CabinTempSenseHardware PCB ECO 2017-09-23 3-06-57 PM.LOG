@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CAN_P Pin=D0-1
+Removed Pin From Net: NetName=GND Pin=D0-2
+Removed Member From Class: ClassName=Power&CAN Member=D0
+Change Component Comment : Designator=D1 Old Comment=TVS Diode 3.3V New Comment=Bourns TVS Diode 3.3V SOD323
+Added Room: Name=MCU
+Added Room: Name=Power&CAN
+Added Room: Name=Sensor

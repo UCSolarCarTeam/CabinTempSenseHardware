@@ -1,0 +1,4 @@
+Added Component: Designator=D0(TVS Diode)
+Added Pin To Net: NetName=CAN_P Pin=D0-1
+Added Pin To Net: NetName=GND Pin=D0-2
+Added Member To Class: ClassName=Power&CAN Member=Component D0 Bourns TVS Diode 3.3V SOD323

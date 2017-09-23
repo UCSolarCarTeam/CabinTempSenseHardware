@@ -1,0 +1,5 @@
+Added Component: Designator=J?(CONN-50mil-10POS-SMD)
+Added Member To Class: ClassName=MCU Member=Component J? SMT, shrouded
+Added Room: Name=MCU
+Added Room: Name=Power&CAN
+Added Room: Name=Sensor
