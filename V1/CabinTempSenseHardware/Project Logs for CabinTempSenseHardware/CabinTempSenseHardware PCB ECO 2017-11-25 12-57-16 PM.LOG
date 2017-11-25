@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CAN_RX Pin=U1-26
+Added Component: Designator=X1(CRYSTAL_8MHZ)
+Added Pin To Net: NetName=CAN_RX Pin=U1-45
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=X1-2
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=X1-1
+Added Net: Name=NetU1_3
+Added Member To Class: ClassName=MCU Member=Component X1 8 MHz
+Added Room: Name=MCU
+Added Room: Name=Power&CAN
+Added Room: Name=Sensor
