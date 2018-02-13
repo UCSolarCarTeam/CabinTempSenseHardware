@@ -2606,66 +2606,94 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.REP
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.DRR
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.EXTREP
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GBL
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GBO
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.htm
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GBS
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GM1
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GTL
+DocumentPath=Project Outputs for CabinTempSenseHardware2\CabinTempSenseHardware2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GTO
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GTS
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.htm
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.LDP
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.REP
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.RUL
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for CabinTempSenseHardware2\Design Rule Check - CabinTempSenseHardware2.html
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.htm
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\CabinTempSenseHardware.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for CabinTempSenseHardware2\Design Rule Check - CabinTempSenseHardware2.html
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=..\V1\CabinTempSenseHardware\Project Outputs for CabinTempSenseHardware\Design Rule Check - CabinTempSenseHardware.html
 DItemRevisionGUID=
 
@@ -2955,7 +2983,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP OfficeJet Pro 6970
+TargetPrinter=Samsung ML-2240 Series (USB001)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -3003,7 +3031,7 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -3026,70 +3054,72 @@ OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
 TargetPrinter=Samsung ML-2240 Series (USB001)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Script
-OutputName1=Script Output
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=SimpleBOM
-OutputName2=Simple BOM
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=3|FormWidth=1383|FormHeight=956|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=68|Description=68|Designator=68|Footprint=68|LibRef=68|Quantity=68
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=SinglePinNetReporter
-OutputName3=Report Single Pin Nets
+Configuration2_Name1=ColumnNameFormat
+Configuration2_Item1=CaptionAsName
+Configuration2_Name2=Filter
+Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration2_Name3=General
+Configuration2_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=6|FormWidth=1383|FormHeight=956|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration2_Name4=GroupOrder
+Configuration2_Item4=Document=True
+Configuration2_Name5=SortOrder
+Configuration2_Item5=Document=Up|Designator=Up
+Configuration2_Name6=VisibleOrder
+Configuration2_Item6=Comment=68|Description=68|Designator=68|Footprint=68|LibRef=68|Quantity=68
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=BOM_PartType
-OutputName4=Bill of Materials
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=Record=ReportHierarchyView|ReportHierarchyMode=0
+OutputType4=Script
+OutputName4=Script Output
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration4_Name1=ColumnNameFormat
-Configuration4_Item1=CaptionAsName
-Configuration4_Name2=Filter
-Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration4_Name3=General
-Configuration4_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=3|FormWidth=1383|FormHeight=956|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration4_Name4=GroupOrder
-Configuration4_Item4=Comment=True|Footprint=True
-Configuration4_Name5=SortOrder
-Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Comment=68|Description=68|Designator=68|Footprint=68|LibRef=68|Quantity=68
-OutputType5=ComponentCrossReference
-OutputName5=Component Cross Reference Report
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-Configuration5_Name1=ColumnNameFormat
-Configuration5_Item1=CaptionAsName
-Configuration5_Name2=Filter
-Configuration5_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration5_Name3=General
-Configuration5_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=6|FormWidth=1383|FormHeight=956|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration5_Name4=GroupOrder
-Configuration5_Item4=Document=True
-Configuration5_Name5=SortOrder
-Configuration5_Item5=Document=Up|Designator=Up
-Configuration5_Name6=VisibleOrder
-Configuration5_Item6=Comment=68|Description=68|Designator=68|Footprint=68|LibRef=68|Quantity=68
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=Record=ReportHierarchyView|ReportHierarchyMode=0
 
 [OutputGroup7]
 Name=Other Outputs
